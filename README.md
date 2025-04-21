@@ -11,8 +11,8 @@ This repository contains a basic implementation of classification using the Iris
 **Logistic Regression:** A simple linear model used for binary and multi-class classification.
 
 **🧪 What’s inside:**
-Train/test split using train_test_split
+* Train/test split using train_test_split
 
-Model training with LogisticRegression
+* Model training with LogisticRegression
 
-Performance evaluation using accuracy_score and classification_report
+* Performance evaluation using accuracy_score and classification_report
