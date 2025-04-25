@@ -16,3 +16,5 @@ This repository contains a basic implementation of classification using the Iris
 * Model training with LogisticRegression
 
 * Performance evaluation using accuracy_score and classification_report
+
+  for more clearification open notebook 
